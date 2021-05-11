@@ -1,0 +1,36 @@
+pipeline {
+    agent any
+    stages{
+        stage('begin'){
+            steps{
+                echo 'hello begin'
+                sleep 3
+            }
+        }
+        stage('running'){
+            steps{
+                echo 'hello running'
+                sleep 3
+            }
+        }
+        stage('finish'){
+            steps{
+                echo 'hello finish'
+                sleep 3
+            }
+        }
+
+    }
+
+    post{
+        success{
+            echo 'success'
+        }
+        failure{
+            echo 'failed'
+        }
+         always{
+            echo 'always'
+        }
+    }
+}

@@ -1,0 +1,140 @@
+{
+  "uid" : "da35a67df39ef476",
+  "name" : "test_add[get_datas86]",
+  "fullName" : "test_calc_new.TestCalculator#test_add",
+  "historyId" : "e73dd75cd1f179e89d45e0df79f18de8",
+  "time" : {
+    "start" : 1612262377424,
+    "stop" : 1612262377424,
+    "duration" : 0
+  },
+  "status" : "failed",
+  "statusMessage" : "AssertionError: assert 5 == 7\n  +5\n  -7",
+  "statusTrace" : "self = <pratice_lesson4.pratice.testing.test_calc_new.TestCalculator object at 0x0000023D656A32E0>\nget_calc = <pratice_lesson4.pratice.demo.calc.Calculator object at 0x0000023D656052E0>, get_datas = [1, 4, 7]\n\n    @allure.story(\"计算器的加法测试\")\n    def test_add(self,get_calc,get_datas):\n        #调用add方法\n        with allure.step(\"从计算器的加方法中得到加过的值\"):\n            result = get_calc.add(get_datas[0],get_datas[1])\n        #假设最大能输入999999999\n        if result>=1000000000:\n            print(\"超出最大数值999999999，不允许输出\")\n            assert False\n        # 假设最小能输入-999999999\n        elif result<=-1000000000:\n            print(\"超出最小数值-999999999，不允许输出\")\n            assert False\n        else:\n            if isinstance(result, float):\n                # 浮点型的计算，是二进制运算，可能会丢位，所以可以使用round方法处理浮点数，强制保留2位数\n                result = round(result, 2)\n            #断言判断\n>           assert result == get_datas[2]\nE           assert 5 == 7\nE             +5\nE             -7\n\ntest_calc_new.py:58: AssertionError",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ {
+    "name" : "get_calc",
+    "time" : {
+      "start" : 1612262376999,
+      "stop" : 1612262376999,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  }, {
+    "name" : "get_datas",
+    "time" : {
+      "start" : 1612262377423,
+      "stop" : 1612262377423,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "testStage" : {
+    "status" : "failed",
+    "statusMessage" : "AssertionError: assert 5 == 7\n  +5\n  -7",
+    "statusTrace" : "self = <pratice_lesson4.pratice.testing.test_calc_new.TestCalculator object at 0x0000023D656A32E0>\nget_calc = <pratice_lesson4.pratice.demo.calc.Calculator object at 0x0000023D656052E0>, get_datas = [1, 4, 7]\n\n    @allure.story(\"计算器的加法测试\")\n    def test_add(self,get_calc,get_datas):\n        #调用add方法\n        with allure.step(\"从计算器的加方法中得到加过的值\"):\n            result = get_calc.add(get_datas[0],get_datas[1])\n        #假设最大能输入999999999\n        if result>=1000000000:\n            print(\"超出最大数值999999999，不允许输出\")\n            assert False\n        # 假设最小能输入-999999999\n        elif result<=-1000000000:\n            print(\"超出最小数值-999999999，不允许输出\")\n            assert False\n        else:\n            if isinstance(result, float):\n                # 浮点型的计算，是二进制运算，可能会丢位，所以可以使用round方法处理浮点数，强制保留2位数\n                result = round(result, 2)\n            #断言判断\n>           assert result == get_datas[2]\nE           assert 5 == 7\nE             +5\nE             -7\n\ntest_calc_new.py:58: AssertionError",
+    "steps" : [ {
+      "name" : "从计算器的加方法中得到加过的值",
+      "time" : {
+        "start" : 1612262377424,
+        "stop" : 1612262377424,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "shouldDisplayMessage" : false,
+      "attachmentsCount" : 0,
+      "stepsCount" : 0,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : true,
+    "attachmentsCount" : 0,
+    "stepsCount" : 1,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "get_datas::0",
+    "time" : {
+      "start" : 1612262377427,
+      "stop" : 1612262377427,
+      "duration" : 0
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "shouldDisplayMessage" : false,
+    "attachmentsCount" : 0,
+    "stepsCount" : 0,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "feature",
+    "value" : "测试计算器"
+  }, {
+    "name" : "story",
+    "value" : "计算器的加法测试"
+  }, {
+    "name" : "suite",
+    "value" : "test_calc_new"
+  }, {
+    "name" : "subSuite",
+    "value" : "TestCalculator"
+  }, {
+    "name" : "host",
+    "value" : "Naraku15"
+  }, {
+    "name" : "thread",
+    "value" : "18708-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_calc_new"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "get_datas",
+    "value" : "[1, 4, 7]"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ {
+      "name" : "Product defects",
+      "matchedStatuses" : [ ],
+      "flaky" : false
+    } ],
+    "tags" : [ ]
+  },
+  "source" : "da35a67df39ef476.json",
+  "parameterValues" : [ "[1, 4, 7]" ]
+}

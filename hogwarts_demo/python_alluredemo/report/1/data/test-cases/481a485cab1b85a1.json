@@ -1,0 +1,54 @@
+{
+  "uid" : "481a485cab1b85a1",
+  "name" : "test_skip",
+  "fullName" : "test_alluredemo#test_skip",
+  "historyId" : "dab963da7db42949835966657a0de9e9",
+  "time" : {
+    "start" : 1611749448960,
+    "stop" : 1611749448960,
+    "duration" : 0
+  },
+  "description" : "this test is skipped",
+  "descriptionHtml" : "<p>this test is skipped</p>\n",
+  "status" : "skipped",
+  "statusMessage" : "Skipped: for a reason!",
+  "statusTrace" : "('C:\\\\Users\\\\narak\\\\PycharmProjects\\\\test2\\\\hogwarts_demo\\\\python_alluredemo\\\\test_alluredemo.py', 19, 'Skipped: for a reason!')",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "suite",
+    "value" : "test_alluredemo"
+  }, {
+    "name" : "host",
+    "value" : "Naraku15"
+  }, {
+    "name" : "thread",
+    "value" : "17252-MainThread"
+  }, {
+    "name" : "framework",
+    "value" : "pytest"
+  }, {
+    "name" : "language",
+    "value" : "cpython3"
+  }, {
+    "name" : "package",
+    "value" : "test_alluredemo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "481a485cab1b85a1.json",
+  "parameterValues" : [ ]
+}

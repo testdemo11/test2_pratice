@@ -1,0 +1,141 @@
+{
+  "uid" : "4b4757e66a1912dae1a509f688f20b0f",
+  "name" : "categories",
+  "children" : [ {
+    "name" : "Product defects",
+    "children" : [ {
+      "name" : "AssertionError: assert False",
+      "children" : [ {
+        "name" : "test_add[get_datas83]",
+        "uid" : "4b24d1925619ad55",
+        "parentUid" : "8d89788b03808d3beec6ddf8e7d75f3d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612262377318,
+          "stop" : 1612262377318,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[999999999, 1, 1000000000]" ]
+      }, {
+        "name" : "test_add[get_datas84]",
+        "uid" : "39430483d4f426ee",
+        "parentUid" : "8d89788b03808d3beec6ddf8e7d75f3d",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612262377405,
+          "stop" : 1612262377405,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[-999999999, -1, -1000000000]" ]
+      } ],
+      "uid" : "8d89788b03808d3beec6ddf8e7d75f3d"
+    }, {
+      "name" : "AssertionError: assert 0.5 == 0.6\n  +0.5\n  -0.6",
+      "children" : [ {
+        "name" : "test_add[get_datas85]",
+        "uid" : "39daa79fa112e53b",
+        "parentUid" : "a59083f06059cb7ef64577f305d3db96",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612262377414,
+          "stop" : 1612262377414,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[0.1, 0.4, 0.6]" ]
+      } ],
+      "uid" : "a59083f06059cb7ef64577f305d3db96"
+    }, {
+      "name" : "AssertionError: assert 5 == 7\n  +5\n  -7",
+      "children" : [ {
+        "name" : "test_add[get_datas86]",
+        "uid" : "da35a67df39ef476",
+        "parentUid" : "592b8976a30aaf9b9695e1f477375f97",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612262377424,
+          "stop" : 1612262377424,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[1, 4, 7]" ]
+      } ],
+      "uid" : "592b8976a30aaf9b9695e1f477375f97"
+    }, {
+      "name" : "AssertionError: assert 5560 == 5800\n  +5560\n  -5800",
+      "children" : [ {
+        "name" : "test_add[get_datas87]",
+        "uid" : "9d5bd876f70a4e06",
+        "parentUid" : "32952d65095c39a5ecc0ef7b2b084078",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612262377432,
+          "stop" : 1612262377432,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[1000, 4560, 5800]" ]
+      } ],
+      "uid" : "32952d65095c39a5ecc0ef7b2b084078"
+    }, {
+      "name" : "AssertionError: assert -9.6 == -10.5\n  +-9.6\n  --10.5",
+      "children" : [ {
+        "name" : "test_add[get_datas88]",
+        "uid" : "ba754639b23198d8",
+        "parentUid" : "31115d0218b29a4cd3d921ff7f1aa0b4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612262377439,
+          "stop" : 1612262377439,
+          "duration" : 0
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[-5.8, -3.8, -10.5]" ]
+      } ],
+      "uid" : "31115d0218b29a4cd3d921ff7f1aa0b4"
+    }, {
+      "name" : "AssertionError: assert -7 == -12\n  +-7\n  --12",
+      "children" : [ {
+        "name" : "test_add[get_datas89]",
+        "uid" : "6d8b0e2af114f22a",
+        "parentUid" : "d0725790a9350753160f7017a98423e4",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612262377446,
+          "stop" : 1612262377447,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[-6, -1, -12]" ]
+      } ],
+      "uid" : "d0725790a9350753160f7017a98423e4"
+    }, {
+      "name" : "AssertionError: assert -3000 == -5000\n  +-3000\n  --5000",
+      "children" : [ {
+        "name" : "test_add[get_datas90]",
+        "uid" : "2eb6da444602c986",
+        "parentUid" : "6f99926c791239071112eac843512f0e",
+        "status" : "failed",
+        "time" : {
+          "start" : 1612262377453,
+          "stop" : 1612262377454,
+          "duration" : 1
+        },
+        "flaky" : false,
+        "newFailed" : false,
+        "parameters" : [ "[-1000, -2000, -5000]" ]
+      } ],
+      "uid" : "6f99926c791239071112eac843512f0e"
+    } ],
+    "uid" : "8fb3a91ba5aaf9de24cc8a92edc82b5d"
+  } ]
+}

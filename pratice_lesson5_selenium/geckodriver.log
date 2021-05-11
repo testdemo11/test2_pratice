@@ -1,0 +1,124 @@
+1612492086941	geckodriver	INFO	Listening on 127.0.0.1:54847
+1612492089878	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LOCAL_~1\\AppData\\Local\\Temp\\rust_mozprofiletB1Nqg"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492095606	Marionette	INFO	Listening on port 54857
+1612492095828	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612492095985	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1612492104272	Marionette	INFO	Stopped listening on port 54857
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612492259304	geckodriver	INFO	Listening on 127.0.0.1:55018
+1612492262335	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LOCAL_~1\\AppData\\Local\\Temp\\rust_mozprofileb1nAQL"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492266126	Marionette	INFO	Listening on port 55028
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492266654	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612492266764	Marionette	ERROR	[15] No reply from Marionette:Register
+1612492282356	Marionette	INFO	Stopped listening on port 55028
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612492283555	geckodriver	INFO	Listening on 127.0.0.1:55082
+1612492286601	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LOCAL_~1\\AppData\\Local\\Temp\\rust_mozprofileH4zlDk"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492290693	Marionette	INFO	Listening on port 55092
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492290851	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612492290954	Marionette	ERROR	[15] No reply from Marionette:Register
+1612492296890	Marionette	INFO	Stopped listening on port 55092
+1612492298251	geckodriver	INFO	Listening on 127.0.0.1:55160
+1612492301267	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LOCAL_~1\\AppData\\Local\\Temp\\rust_mozprofile7fUjT9"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492304624	Marionette	INFO	Listening on port 55170
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492304973	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612492305045	Marionette	ERROR	[18] No reply from Marionette:Register
+1612492309087	Marionette	INFO	Stopped listening on port 55170
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612492310290	geckodriver	INFO	Listening on 127.0.0.1:55212
+1612492313305	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LOCAL_~1\\AppData\\Local\\Temp\\rust_mozprofileOg5ku2"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492316645	Marionette	INFO	Listening on port 55221
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492317055	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612492317182	Marionette	ERROR	[15] No reply from Marionette:Register
+1612492323664	Marionette	INFO	Stopped listening on port 55221
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612492431799	geckodriver	INFO	Listening on 127.0.0.1:55362
+1612492434814	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LOCAL_~1\\AppData\\Local\\Temp\\rust_mozprofile833Q17"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492438048	Marionette	INFO	Listening on port 55372
+1612492438554	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492438661	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1612492444961	Marionette	INFO	Stopped listening on port 55372
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612492451492	geckodriver	INFO	Listening on 127.0.0.1:55452
+1612492454538	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LOCAL_~1\\AppData\\Local\\Temp\\rust_mozprofilezKrDMo"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492457876	Marionette	INFO	Listening on port 55462
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492458273	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612492458346	Marionette	ERROR	[15] No reply from Marionette:Register
+JavaScript warning: https://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1612492464273	Marionette	INFO	Stopped listening on port 55462
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612492471443	geckodriver	INFO	Listening on 127.0.0.1:55536
+1612492474474	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LOCAL_~1\\AppData\\Local\\Temp\\rust_mozprofile6EAl4F"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492478142	Marionette	INFO	Listening on port 55546
+1612492478202	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612492478270	Marionette	ERROR	[18] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+1612492484980	Marionette	ERROR	[35] No reply from Marionette:Register
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: linkProgram: Must have a compiled vertex shader attached.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: useProgram: Program must be linked successfully.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: vertexAttribI?Pointer: `index` (4294967295) must be < MAX_VERTEX_ATTRIBS.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: uniform setter: No active linked Program.
+JavaScript warning: https://wappass.baidu.com/static/touch/js/lib/fingerprint.js, line 1: WebGL warning: drawArraysInstanced: The current program is not linked.
+1612492489678	Marionette	INFO	Stopped listening on port 55546
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1612492778757	geckodriver	INFO	Listening on 127.0.0.1:55696
+1612492781788	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\LOCAL_~1\\AppData\\Local\\Temp\\rust_mozprofileJsxuuG"
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1612492784949	Marionette	INFO	Listening on port 55706
+1612492785050	Marionette	WARN	TLS certificate errors will be ignored for this session
+1612492785322	Marionette	ERROR	[15] No reply from Marionette:Register
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+JavaScript warning: https://apps.bdimg.com/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+1612492792703	Marionette	INFO	Stopped listening on port 55706
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
